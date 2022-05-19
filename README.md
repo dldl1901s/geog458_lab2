@@ -1,6 +1,6 @@
 # geog458_lab2
 
-I've heard that **Ireland** and Great **Britain** are not on good terms with each other even though they are the same country. I wanted to crawl their tweets and see what was different from each other. 
+I've heard that **Ireland** and Great **Britain** are not on good terms with each other even though they are the same country. I wanted to crawl their tweets and see what was different from each other.  
 
 
 
